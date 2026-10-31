@@ -1,0 +1,2 @@
+# .github
+Short project information
